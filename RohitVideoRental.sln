@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RohitVideoRental", "RohitVideoRental\RohitVideoRental.csproj", "{1614EC5F-1CEA-4F12-874D-16C5C96CEBB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RohitVideoRentalTests", "RohitVideoRentalTests\RohitVideoRentalTests.csproj", "{FABFB81D-361C-4852-937C-A16AC2CB2750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1614EC5F-1CEA-4F12-874D-16C5C96CEBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1614EC5F-1CEA-4F12-874D-16C5C96CEBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1614EC5F-1CEA-4F12-874D-16C5C96CEBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1614EC5F-1CEA-4F12-874D-16C5C96CEBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABFB81D-361C-4852-937C-A16AC2CB2750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABFB81D-361C-4852-937C-A16AC2CB2750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABFB81D-361C-4852-937C-A16AC2CB2750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABFB81D-361C-4852-937C-A16AC2CB2750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F36F54-8BFE-4254-A8B7-D90C6DCD9503}
+	EndGlobalSection
+EndGlobal
