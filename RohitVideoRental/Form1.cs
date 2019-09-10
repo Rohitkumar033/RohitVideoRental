@@ -505,7 +505,7 @@ namespace RohitVideoRental
                 BookingID = Convert.ToInt32(RohitDB.CurrentRow.Cells[0].Value.ToString());
                 MemberID.Text = RohitDB.CurrentRow.Cells[1].Value.ToString();
                 VideoCdId.Text = RohitDB.CurrentRow.Cells[2].Value.ToString();
-                Issue.Text = RohitDB.CurrentRow.Cells[3].Value.ToString();
+                //Issue.Text = RohitDB.CurrentRow.Cells[3].Value.ToString();
 
             }
            
@@ -565,7 +565,7 @@ namespace RohitVideoRental
                 BookingID = Convert.ToInt32(RohitDB.CurrentRow.Cells[0].Value.ToString());
                 MemberID.Text = RohitDB.CurrentRow.Cells[1].Value.ToString();
                 VideoCdId.Text = RohitDB.CurrentRow.Cells[2].Value.ToString();
-                Issue.Text = RohitDB.CurrentRow.Cells[3].Value.ToString();
+                //Issue.Text = RohitDB.CurrentRow.Cells[3].Value.ToString();
 
             }
 
